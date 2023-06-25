@@ -1,14 +1,20 @@
 ### Hi there 👋
 
-**anfashop/anfashop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**anfashop/anfashop** ✨ _maxsus_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+```
+
+```
+
+[Bizning web saytimiz](https://anfashop.github.io/)
 
 Sayt uchun zarur ma'lumotlar:
 
 - 🔭 Telefon raqam;
 - 🌱 Instagram;
 - 👯 Manzil;
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🤔 Kompaniya tashkil topgan yil;
+- 💬 Mahsulotlar turlari
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
