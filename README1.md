@@ -1,8 +1,8 @@
 ﻿
 ==================================================================================================
 
-WOO is a clean, modern, landing page site template. It has a fully responsive design and was 
-tested on all major browser and mobile devices. Woo is the perfect template to showcase your 
+ANFASHOP is a clean, modern, landing page site template. It has a fully responsive design and was 
+tested on all major browser and mobile devices. ANFASHOP is the perfect template to showcase your 
 apps, services or digital goods.
 
 ==================================================================================================
@@ -10,7 +10,7 @@ apps, services or digital goods.
 
 LICENSE:
 
-WOO is released under the Creative Commons Attribution 3.0 License
+ANFASHOP is released under the Creative Commons Attribution 3.0 License
 (http://creativecommons.org/licenses/by/3.0/). This means that you are free:
 
    to Share - to copy, distribute, display, and perform the work
@@ -57,7 +57,7 @@ Also, keep your Paypal receipt as proof of payment and your good to go.
 
 SUPPORT:
     
-Since WOO is distributed for free, support is not offered. WOO is coded according 
+Since ANFASHOP is distributed for free, support is not offered. ANFASHOP is coded according 
 to current web standards and we did our best to make the template easy to use and modify.
 If you have minimum web development experience, you can easily modify the template. 
 However, If you're still new to HTML and CSS, I suggest that you visit the 
@@ -93,7 +93,7 @@ I've used the following resources as listed.
 Fonts:
  - Open Sans Font (http://www.google.com/fonts/specimen/Open+Sans)
  - Montserrat Font (https://www.google.com/fonts/specimen/Montserrat) 
- - Montserrat Alternates Font - for the WOO logo (http://www.google.com/fonts/specimen/Montserrat+Alternates)
+ - Montserrat Alternates Font - for the ANFASHOP logo (http://www.google.com/fonts/specimen/Montserrat+Alternates)
 
 Icons:
  - Font Awesome (http://fortawesome.github.io/Font-Awesome/)
