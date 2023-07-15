@@ -172,7 +172,7 @@ body {
    font-weight: normal;
    font-size: 15px;
    line-height: 30px;
-	color: #838C95;
+	color: #000;
 
    -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 	-webkit-text-size-adjust: 100%;
@@ -314,7 +314,7 @@ hr { border: solid #E8E8E8; border-width: 1px 0 0; clear: both; margin: 11px 0 3
 a, a:visited {
    text-decoration: none;
    outline: 0;
-   color: #11ABB0;
+   color: #2C5B21;
 
    -webkit-transition: color .3s ease-in-out;
    -moz-transition: color .3s ease-in-out;
@@ -375,7 +375,7 @@ li p { }
    color: #313131;
 }
 .stats-tabs li a:hover {
-   color:#11ABB0;
+   color:#2C5B21;
 }
 .stats-tabs li a b {
 	display: block;
@@ -387,7 +387,7 @@ li p { }
 
 /* definition list */
 dl { margin: 12px 0; }
-dt { margin: 0; color:#11ABB0; }
+dt { margin: 0; color:#2C5B21; }
 dd { margin: 0 0 0 20px; }
 
 /* Lining Definition Style Markup */
@@ -459,7 +459,7 @@ dd { margin: 0 0 0 20px; }
 }
 .pagination .current,
 .pagination .current:hover {
-   background-color: #11ABB0;
+   background-color: #2C5B21;
    color: #fff;
 }
 .pagination .inactive,
@@ -491,7 +491,7 @@ input[type="submit"],
 input[type="reset"],
 input[type="button"] {
    font: 14px/24px 'montserrat-bold', sans-serif;
-   background: #11ABB0;
+   background: #2C5B21;
    color: #fff;
    display: inline-block;   
 	text-decoration: none;
@@ -518,7 +518,7 @@ button:hover,
 input[type="submit"]:hover,
 input[type="reset"]:hover,
 input[type="button"]:hover {
-   background: #14D0D6;
+   background: #3cb520;
    color: #fff;
 }
 
@@ -527,7 +527,7 @@ button:active,
 input[type="submit"]:active,
 input[type="reset"]:active,
 input[type="button"]:active {
-   background: #11ABB0;
+   background: #2C5B21;
    color: #fff;
 }
 
